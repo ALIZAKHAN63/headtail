@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    margin-bottom: 500px;
+}
+
+.container {
+    text-align: center;
+}
+.con1{
+    margin-bottom:10px ;
+}
+.btn{
+    margin-top: 10px;
+}
